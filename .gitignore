@@ -1,0 +1,51 @@
+# root
+/*
+!.gitignore
+!README.md
+
+# Archive/
+!/Archive
+/Archive/*
+!/Archive/download_url_list.txt
+!/Archive/download.sh
+!/Archive/decompress.sh
+
+# Denoising_Planaria/
+!/Denoising_Planaria/
+/Denoising_Planaria/*
+!/Denoising_Planaria/info.ipynb
+
+# Denoising_Tribolium/
+!/Denoising_Tribolium/
+/Denoising_Tribolium/*
+!/Denoising_Tribolium/info.ipynb
+
+# Isotropic_Drosophila/
+!/Isotropic_Drosophila/
+/Isotropic_Drosophila/*
+!/Isotropic_Drosophila/info.ipynb
+
+# Isotropic_Liver/
+!/Isotropic_Liver/
+/Isotropic_Liver/*
+!/Isotropic_Liver/info.ipynb
+
+# Isotropic_Retina/
+!/Isotropic_Retina/
+/Isotropic_Retina/*
+!/Isotropic_Retina/info.ipynb
+
+# Projection_Flywing/
+!/Projection_Flywing/
+/Projection_Flywing/*
+!/Projection_Flywing/info.ipynb
+
+# Synthetic_tubulin_gfp/
+!/Synthetic_tubulin_gfp/
+/Synthetic_tubulin_gfp/*
+!/Synthetic_tubulin_gfp/info.ipynb
+
+# Synthetic_tubulin_granules/
+!/Synthetic_tubulin_granules/
+/Synthetic_tubulin_granules/*
+!/Synthetic_tubulin_granules/info.ipynb

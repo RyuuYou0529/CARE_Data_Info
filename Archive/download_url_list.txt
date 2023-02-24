@@ -1,0 +1,8 @@
+https://publications.mpi-cbg.de/publications-sites/7207/Denoising_Planaria.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Denoising_Tribolium.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Projection_Flywing.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Isotropic_Drosophila.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Isotropic_Retina.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Isotropic_Liver.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Synthetic_tubulin_granules.tar.gz
+https://publications.mpi-cbg.de/publications-sites/7207/Synthetic_tubulin_gfp.tar.gz
